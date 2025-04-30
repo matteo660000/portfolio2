@@ -1,3 +1,7 @@
+<header style="background-color: #d32f2f; color: white; padding: 2em; text-align: center;">
+  <h1>Matteo Pierucci</h1>
+  <p>Étudiant en BUT Génie Industriel et Maintenance</p>
+</header>
 <nav>
   <a href="#accueil">Accueil</a>
   <a href="#profil">Mon Profil</a>

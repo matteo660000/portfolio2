@@ -7,13 +7,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portfolio - Matteo Pierucci</title>
-  body {
+ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f8f9fa;
-  color: #333;
+  color: #333333;
 }
+
 
 nav {
   background-color: #0066cc;

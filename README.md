@@ -1,22 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portfolio - Matteo Pierucci</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 0; 
+      margin: 0;
       padding: 0;
       background-color: #f8f9fa;
       color: #333;
     }
-    nav {
-      background-color: #0066cc;
-      padding: 1em;
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 2em;
       text-align: center;
     }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Portfolio - Matteo Pierucci</h1>
+  </header>
+</body>
+</html>
+
     nav a {
       color: white;
       margin: 0 1em;

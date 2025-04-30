@@ -1,4 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - Matteo Pierucci</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333333;
+    }
 
+    nav {
+      background-color: #0066cc;
+      padding: 1em;
+    }
 
     nav a {
       color: white;
@@ -6,24 +24,34 @@
       text-decoration: none;
       font-weight: bold;
     }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 2em;
+      text-align: center;
+    }
+
     section {
       padding: 2em;
       max-width: 900px;
-      margin: auto;
+      margin: 1em auto;
       background-color: white;
-      margin-top: 1em;
       border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     }
+
     h2 {
       color: #004080;
     }
+
     footer {
       text-align: center;
       padding: 2em;
       background-color: #004080;
       color: white;
     }
+
     a.button {
       display: inline-block;
       margin-top: 1em;
@@ -37,10 +65,6 @@
 </head>
 <body>
 
-<header>
-  <h1>Matteo Pierucci</h1>
-  <p>Étudiant en BUT Génie Industriel et Maintenance</p>
-</header>
 
 <nav>
   <a href="#accueil">Accueil</a>
